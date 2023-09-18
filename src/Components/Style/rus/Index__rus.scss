@@ -100,12 +100,12 @@ a{
 
       h1 {
         color: #95A1AE;
-        font-family: Akira;
-        font-size: 45px;
+        font-family: DrukCyr;
+        font-size: 43px;
         font-style: normal;
         font-weight: 800;
         line-height: normal;
-        letter-spacing: 1.575px;
+        letter-spacing: 2px;
 
       }
 
@@ -640,7 +640,7 @@ footer{
     margin-top: 91px;
     color: #95A1AE;
     text-align: center;
-    font-family: Akira ;
+    font-family: DrukCyr;
     font-size: 60px;
     font-style: normal;
     font-weight: 800;
@@ -728,7 +728,7 @@ footer{
 
     h3{
       color: #95A1AE;
-        font-family: DrukCyr;
+      font-family: DrukCyr;
       font-size: 16px;
       font-style: normal;
       font-weight: 800;
@@ -747,3 +747,26 @@ footer{
     }
   }
 }
+
+
+  .ww1{
+    margin-right: 30px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Akira;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 1.575px;
+  }
+
+  .ww2{
+    margin-right: 0;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Akira;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 1.575px;
+  }
