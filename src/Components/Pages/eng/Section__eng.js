@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import '../../Style/eng/Index__eng.scss';
 import {useTranslation} from "react-i18next";
 import i18n from "../i18next"; // Или другой корректный путь
-import '../../Style/rus/Index__rus.scss'; // Или другой корректный путь
 
 
 
@@ -16,6 +15,7 @@ function Section__eng() {
     };
         return (
             <>
+                <div className="dd">
                     <section>
                         <hr/>
 
@@ -33,10 +33,13 @@ function Section__eng() {
                             </div>
 
                         </div>
+
+
                         <div className="d-flexx">
                             <div className="card1">
                                 <h2>maxway Site</h2>
                                 <img src="./imgs/Gamburger.png" alt=""/>
+
                                 <h3>{t('section.Burger')}</h3>
 
                                 <div className="button__link">
@@ -134,11 +137,15 @@ function Section__eng() {
 
                         <div className="more">
                             <h3 className="all">{t('section.not')}</h3>
+                        </div>
+
+                        <div className="moree">
                             <h3>{t('section.soon')}</h3>
                         </div>
 
                         <hr/>
                     </section>
+                </div>
 
 
 
