@@ -14,11 +14,12 @@ function Header__eng() {
         <>
             <div className="dd">
              <header>
-                <div className="ps2">
 
                     <nav>
                         <div className="nav__item">
-                            <p><a className="a" href="#">JT</a></p>
+                            <div className="ff" >
+                                  <p><a className="a" href="#">JT</a></p>
+                            </div>
 
                             <div className="launges">
                                 <LanguageSwitcher/>
@@ -57,20 +58,17 @@ function Header__eng() {
 
                     <div className="ii">
                         <img className="oblako1" src="./imgs/oblaka1.png" alt=""/>
-                        <div className="imggg">
-                            <img className="oblako2" src="./imgs/oblaka2.png" alt=""/>
-
-                            <img className="programmer" src="./imgs/programmer.png" alt=""/>
-
+                            <div className="imggg">
+                                <img className="oblako2" src="./imgs/oblaka2.png" alt=""/>
+                                <img className="programmer" src="./imgs/programmer.png" alt=""/>
                                 <img className="pc" src="./imgs/pc.png" alt=""/>
+                                <img className="pce" src="./imgs/Laptop 1.png" alt=""/>
                                 <img className="Code1" src="./imgs/Code1.png" alt=""/>
                                 <img className="Code2" src="./imgs/Code2.png" alt=""/>
-                            <img className="Mobile" src="./imgs/Mobile.png" alt=""/>
+                                <img className="Mobile" src="./imgs/Mobile.png" alt=""/>
+                            </div>
                     </div>
 
-                    </div>
-
-                </div>
 
             </header>
             </div>

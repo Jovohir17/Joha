@@ -10,11 +10,13 @@ function Footer__eng() {
         <>
             <div className="dd">
                 <footer>
+                    <div className="center">
                     <h2>{t('footer.contactNetworks')}</h2> {/* Используем функцию t для перевода текста */}
+                    </div>
                     <div data-aos="fade-down"
                          data-aos-anchor-placement="top-bottom"
                          data-aos-duration="2000"
-                         className="d-flexx">
+                         className="d-flexxx">
                         <a href="https://t.me/joha_17">
                             <div className="telegram">
                                 <img src="../imgs/icons/telegram.png" alt="1"/>
@@ -51,10 +53,12 @@ function Footer__eng() {
                         </div>
                     </div>
 
-                    <div className="Coder">
+
+                    <div className="d-ff">
                         <img className="Coder1" src="../imgs/Coder1.png" alt=""/>
                         <img className="Coder2" src="../imgs/Coder2.png" alt=""/>
                     </div>
+
                 </footer>
             </div>
         </>

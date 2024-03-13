@@ -15,10 +15,10 @@
 
   "section": {
     "projects": "projects I have done :",
-    "Burger": "This site is about Burger, and this site allows you to filter,\n                                cart, add items to cart, and view the total price.",
-    "medicines": "big site about medicines, \n                                    on the adaptive site, and many features",
-    "medicines2": "big site about medicines, \n                                    on the adaptive site, and many features",
-    "pizza": "This site is a big project with a team of 4 people, and the project is not functional",
+    "Burger": "This site is about Burger, and this site allows you to filter,and I completed this site entirely by myself \n                                cart, add items to cart, and view the total price.",
+    "medicines": "big site about medicines, \n                                    on the adaptive site, and many features and there's a lot of interesting stuff in there.",
+    "medicines2": "big site about medicines, \n                                    on the adaptive site, and many features and there's a lot of interesting stuff in there.",
+    "pizza": "This site is a large project with a team of 4 people, it is the project with the most functionality and this project has taken a long time to complete.",
     "not": "that's not all",
     "soon": "soon"
 

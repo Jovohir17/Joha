@@ -37,10 +37,14 @@ function Section__eng() {
 
                         <div className="d-flexx">
                             <div className="card1">
-                                <h2>maxway Site</h2>
-                                <img src="./imgs/Gamburger.png" alt=""/>
+                                <div className="ddw">
+                                    <h2>maxway Site</h2>
+                                </div>
+                                    <img src="./imgs/Gamburger.png" alt=""/>
 
-                                <h3>{t('section.Burger')}</h3>
+
+                                    <h3>{t('section.Burger')}</h3>
+
 
                                 <div className="button__link">
                                     <div className="dd1">
@@ -59,10 +63,12 @@ function Section__eng() {
                             <div className="card2">
 
 
-                                <h2>atlas site</h2>
+                                <div className="ddw">
+                                    <h2>atlas site</h2>
+                                </div>
                                 <img src="../imgs/medicine.png" alt=""/>
                                 <h3>
-                                    {t('section.medicines')}
+                                {t('section.medicines')}
                                 </h3>
                                 <div className="button__link">
                                     <div className="dd1">
@@ -70,7 +76,6 @@ function Section__eng() {
                                     </div>
 
                                     <a href="">
-
                                         <button>
                                             READ MORE
                                         </button>
@@ -93,10 +98,12 @@ function Section__eng() {
 
                         <div className="d-flexx">
                             <div className="card3">
-                                <h2>atlas site</h2>
+                                <div className="ddw">
+                                    <h2>atlas Site</h2>
+                                </div>
                                 <img src="../imgs/medicine.png" alt=""/>
                                 <h3>
-                                    {t('section.medicines2')}
+                                {t('section.medicines2')}
                                 </h3>
                                 <div className="button__link">
                                     <div className="dd1">
@@ -114,10 +121,12 @@ function Section__eng() {
                             </div>
 
                             <div className="card4">
-                                <h2>pizza site</h2>
+                                <div className="ddw">
+                                    <h2>pizza Site</h2>
+                                </div>
                                 <img src="./imgs/pizza.png" alt=""/>
                                 <h3>
-                                    {t('section.pizza')}
+                                {t('section.pizza')}
                                 </h3>
                                 <div className="button__link">
                                     <div className="dd1">
